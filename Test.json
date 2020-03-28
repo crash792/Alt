@@ -1,0 +1,71 @@
+{
+  "name": "Crash Source",
+  "identifier": "com.Crash792.source",
+  "userInfo": {},
+  "news": [
+    {
+      "title": "Channels Now Available",
+      "identifier": "channels-now-available",
+      "caption": "Live TV you're used to",
+      "tintColor": "0093e9",
+      "imageURL": "https://raw.githubusercontent.com/crash792/Alt/master/Channels/banner.png",
+      "appID": "com.Channels.crash792",
+      "date": "2019-09-28",
+      "notify": false
+    },
+    {
+      "title": "Crunchyroll++ Now Available",
+      "identifier": "crunchyroll++-now-available",
+      "caption": "HD Anime at your fingertips",
+      "tintColor": "f47521",
+      "imageURL": "https://raw.githubusercontent.com/crash792/Alt/master/Crunchyroll/news.png",
+      "appID": "com.crunchyroll.plus",
+      "date": "2019-09-28",
+      "notify": false
+    }
+  ],
+  "apps": [
+    {
+      "name": "Channels",
+      "bundleIdentifier": "com.Channels.crash",
+      "developerName": "@afsimsir",
+      "subtitle": "Watch live TV & events for free with Channels",
+      "version": "1.8.0",
+      "versionDate": "2020-03-24T00:00:00-00:00",
+      "versionDescription": "• Completely redesigned Events tab\n• Most streams will open in the default iOS player instead of in the browser\n• 'Open in VLC' support (VLC app has Chromecast)\n• Reduced app size by 85%! (168 MB -> 22 MB)\n• Smoother loading experience\n• Cleanup and bugfixes",
+      "downloadURL": "https://github.com/crash792/Alt/blob/master/Channels/channels_beta.ipa?raw=true",
+      "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\nFeatures you will love:\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\nFollow @channelstheapp on Twitter for more information.",
+      "iconURL": "https://raw.githubusercontent.com/crash792/Alt/master/Channels/appicon.png",
+      "tintColor": "0093e9",
+      "size": "22000000",
+      "beta": false,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/crash792/Alt/master/Channels/screen1.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Channels/screen2.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Channels/screen3.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Channels/screen4.png"
+      ]
+    },
+    {
+      "name": "Crunchyroll++",
+      "bundleIdentifier": "com.crunchyroll.plus.crash",
+      "developerName": "unlimapps",
+      "subtitle": "Modified Crunchyroll",
+      "version": "3.5.1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "-Premium unlocked \n\n-Without Ads\n\n-Latest ipa updated\n\n-don't login ",
+      "downloadURL": "https://github.com/crash792/Alt/blob/master/Crunchyroll/Crunchyroll++.ipa?raw=true",
+      "localizedDescription": "Stream Japan's most popular anime with Crunchyroll. Watch new shows like Dr. STONE, One Piece, Black Clover, BORUTO: NARUTO NEXT GENERATIONS, Demon Slayer, plus favorites like Dragon Ball Super, Naruto, My Hero Academia, Attack on Titan, Mob Psycho 100, and hundreds more! Plus, watching on Crunchyroll helps support the creators who work to bring you awesome anime every week (Show availability varies by region).\n\nTry Crunchyroll Premium FREE for 14 days or start watching your favorite anime now for free. Sign up in the Crunchyroll app!\n\nWith Crunchyroll Premium, you get:\n- No ads\n- New episodes one hour after airing in Japan\n- Watch on Apple TV, Xbox, PS4, Roku – pretty much any internet-connected screen\n\nBecome a Premium user with in-app purchasing and auto-pay each month.\n\nIn-App Purchase information:\n- Subscribe to Premium for only $7.99 per month (amount in USD in US App Store)\n- Your iTunes Account will automatically be charged after you confirm your subscription\n- The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of your billing period. You can manage subscriptions and turn off auto-renewal by going to Account Settings after purchase\n- Your iTunes Account will be charged $7.99 monthly for renewal within 24 hours prior to the end of the current period\n- A current subscription cannot be cancelled during an active subscription period\n- You can find our Privacy Policy at https://www.crunchyroll.com/privacy and Terms of Service at https://www.crunchyroll.com/tos",
+      "iconURL": "https://raw.githubusercontent.com/crash792/Alt/master/Crunchyroll/icon.png",
+      "tintColor": "f47521",
+      "size": "11688173",
+      "beta": false,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/crash792/Alt/master/Crunchyroll/image0.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Crunchyroll/image1.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Crunchyroll/image2.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Crunchyroll/image3.png"
+      ]
+    }
+  ]
+}
