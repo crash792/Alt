@@ -1,0 +1,29 @@
+{
+  "name": "Crash Source",
+  "identifier": "com.crash.source",
+  "userInfo": {},
+  "news": [],
+  "apps": [
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.Spotify.plus.crash",
+      "developerName": "unlimapps",
+      "subtitle": "Unlocked Spotify",
+      "version": "8.5.51",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Bug fixes",
+      "downloadURL": "https://drive.google.com/uc?id=1g1VkuPD1BSLMyislINYBMwRmNiWKG1q7&export=download",
+      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\nSo what does Spotify++ change?\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
+      "iconURL": "https://raw.githubusercontent.com/crash792/Alt/master/Spotify/icon.png",
+      "tintColor": "1ed760",
+      "size": "430981120",
+      "beta": false,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/crash792/Alt/master/Spotify/image0.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Spotify/image1.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Spotify/image2.png",
+        "https://raw.githubusercontent.com/crash792/Alt/master/Spotify/image3.png"
+      ]
+    }
+  ]
+}
